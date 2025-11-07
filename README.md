@@ -15,7 +15,7 @@ It reads any video and converts it into colorful ASCII art using **OpenCV**, **N
 
 ---
 
-## 🧠 How It Works
+🧠 How It Works
 
 1. Each frame of the video is captured via OpenCV  
 2. Pixels are converted to ASCII characters based on brightness  
@@ -24,7 +24,7 @@ It reads any video and converts it into colorful ASCII art using **OpenCV**, **N
 
 ---
 
-## 📦 Installation
+📦 Installation
 
 Make sure you have **Python 3.10+** installed.
 
