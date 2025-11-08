@@ -6,7 +6,7 @@ It reads any video and converts it into colorful ASCII art using **OpenCV**, **N
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 🎨 **Colorized ASCII rendering** — full RGB mapped to ANSI colors  
 - ⚡ **Smooth playback** with minimal flicker using cursor control  
